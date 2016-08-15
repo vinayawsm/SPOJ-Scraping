@@ -1,0 +1,5 @@
+http://docs.python-requests.org/en/master/user/quickstart/
+http://docs.python-guide.org/en/latest/scenarios/scrape/
+http://www.rexegg.com/regex-quickstart.html
+http://stackoverflow.com/q/38939418/3819718
+http://stackoverflow.com/q/9942594/3819718
